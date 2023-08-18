@@ -7,7 +7,7 @@ Welcome to the documentation for our modern and feature-rich chat application bu
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
+- [Getting Started](#localy-running-the-project)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Configuration](#configuration)
