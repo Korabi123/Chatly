@@ -34,11 +34,11 @@ Our chat application is designed to provide users with a seamless and interactiv
 - **MongoDB:** A NoSQL database for scalable and flexible data storage.
 - **TypeScript:** A statically-typed superset of JavaScript that enhances code quality and maintainability.
 
+## Running on the web
+
+- Navigate to: [Chatly](https://chatly-korabi123.vercel.app)
+
 ## Getting Started
-
-### Running on the web
-
-Navigate to: [Chatly](https://chatly-korabi123.vercel.app)
 
 ### Prerequisites
 
@@ -57,7 +57,7 @@ Before you begin, ensure you have the following installed:
 2. Navigate to the project directory:
 
    ```bash
-   cd chat-app
+   cd Chatly
    ```
 
 3. Install dependencies:
