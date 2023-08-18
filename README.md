@@ -36,6 +36,10 @@ Our chat application is designed to provide users with a seamless and interactiv
 
 ## Getting Started
 
+### Running on the web
+
+Navigate to: [Chatly](https://chatly-korabi123.vercel.app)
+
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -82,7 +86,6 @@ Before you begin, ensure you have the following installed:
 
 4. Start enjoying real-time conversations with your contacts!
 
-5. Or also navigate to [Chatly](https://chatly-korabi123.vercel.app)
 
 ## Contributing
 
