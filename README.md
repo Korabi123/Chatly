@@ -38,7 +38,7 @@ Our chat application is designed to provide users with a seamless and interactiv
 
 - Navigate to: [Chatly](https://chatly-korabi123.vercel.app)
 
-## Getting Started
+## Localy running the project
 
 ### Prerequisites
 
