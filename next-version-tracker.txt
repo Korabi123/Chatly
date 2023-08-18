@@ -1,0 +1,10 @@
+--------CURRENT--------
+
+NextJS version: 13.4.12
+
+---------LATEST--------
+NextJS version: 13.4.16
+
+--------Tutorial-------
+NextJS version: 13.3.1
+EsLint NextJS: 13.3.0
